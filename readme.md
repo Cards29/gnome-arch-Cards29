@@ -1,11 +1,10 @@
 # GNOME Arch Setup
 
 This repository stores my GNOME Shell configuration for Arch Linux.  
-The main file is:
 
-- `gnome_extension_settings_01.txt`:  
-  Output from `dconf dump /org/gnome/shell/extensions/`  
-  This can be restored on another system using `dconf load`.
+- The main file is `gnome_extension_settings_01.txt`  
+- Output from `dconf dump /org/gnome/shell/extensions/`  
+- This can be restored on another system using `dconf load`.
 
 ---
 
@@ -64,12 +63,18 @@ Once installed, you can manage your GNOME extensions at:
 
 ---
 
-## 📥 Restoring Extension Settings
+## 📥 Dumping and Loading Extension Settings
 
-To restore the GNOME extension settings from this repo:
+To load the GNOME extension settings from this repo:
 
 ```bash
 dconf load /org/gnome/shell/extensions/ < gnome_extension_settings_01.txt
+```
+
+To dump the GNOME extension settings to any file:
+
+```bash
+dconf dump /org/gnome/shell/extensions/ > anyfile.txt
 ```
 
 ---
