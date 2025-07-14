@@ -45,7 +45,7 @@ position-offset=1
 prefs-visible-page=''
 show-apps-button=(false, 0)
 show-running-apps=true
-update-notifier-project-version=30
+update-notifier-project-version=31
 
 [blur-my-shell]
 pipelines={'pipeline_default': {'name': <'default'>, 'effects': <[<{'type': <'native_static_gaussian_blur'>, 'id': <'effect_000000000000'>, 'params': <{'radius': <30>, 'brightness': <0.59999999999999998>}>}>]>}, 'pipeline_default_rounded': {'name': <'Default rounded'>, 'effects': <[<{'type': <'native_static_gaussian_blur'>, 'id': <'effect_000000000001'>, 'params': <{'radius': <30>, 'brightness': <0.59999999999999998>}>}>, <{'type': <'corner'>, 'id': <'effect_000000000002'>, 'params': <{'radius': <24>}>}>]>}}
@@ -92,7 +92,7 @@ prefs-open-count=20
 
 [caffeine]
 countdown-timer=900
-indicator-position-max=2
+indicator-position-max=1
 user-enabled=false
 
 [clipboard-history]
@@ -142,7 +142,7 @@ primary-monitor='SDC-0x00000000'
 check-x11wayland=true
 
 [extension-list]
-button-icon=uint32 1
+button-icon=uint32 0
 enable-filter=true
 extension-appid='org.gnome.Extensions.desktop'
 ignore-menu=false
@@ -204,6 +204,7 @@ mouse-sensitive-fullscreen-window=false
 mouse-triggers-overview=false
 
 [just-perfection]
+accent-color-icon=false
 accessibility-menu=true
 activities-button=true
 calendar=true
@@ -288,6 +289,8 @@ indicator-style='current-workspace'
 smart-workspace-names=false
 
 [space-bar/shortcuts]
+back-and-forth=false
+enable-activate-workspace-shortcuts=true
 enable-move-to-workspace-shortcuts=true
 
 [space-bar/state]
