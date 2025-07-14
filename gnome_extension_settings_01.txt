@@ -1,0 +1,315 @@
+[Logo-menu]
+menu-button-icon-image=6
+symbolic-icon=true
+use-custom-icon=false
+
+[arcmenu]
+override-menu-theme=false
+prefs-visible-page=0
+search-entry-border-radius=(true, 25)
+update-notifier-project-version=66
+
+[astra-monitor]
+experimental-features='[]'
+gpu-indicators-order='["icon","activity bar","activity graph","activity percentage","memory bar","memory graph","memory percentage","memory value"]'
+headers-height=0
+headers-height-override=0
+memory-indicators-order='["icon","bar","graph","percentage","value","free"]'
+monitors-order='["processor","gpu","memory","storage","network","sensors"]'
+network-indicators-order='["icon","IO bar","IO graph","IO speed"]'
+processor-indicators-order='["icon","bar","graph","percentage","frequency"]'
+processor-menu-gpu-color=''
+profiles='{"default":{"panel-margin-left":0,"sensors-header-tooltip-sensor2-digits":-1,"memory-update":3,"gpu-header-memory-graph-color1":"rgba(29,172,214,1.0)","panel-box":"right","memory-header-show":true,"network-header-tooltip-io":true,"processor-header-bars-color2":"rgba(214,29,29,1.0)","processor-header-icon-size":18,"storage-source-storage-io":"auto","sensors-header-tooltip-sensor4-name":"","storage-header-icon-color":"","network-source-public-ipv4":"https://api.ipify.org","storage-header-io-graph-color2":"rgba(214,29,29,1.0)","storage-header-io":false,"processor-menu-top-processes-percentage-core":true,"sensors-header-sensor1":"\\"\\"","processor-header-graph":true,"storage-header-graph-width":30,"network-header-bars":false,"processor-source-load-avg":"auto","network-menu-arrow-color1":"rgba(29,172,214,1.0)","network-source-top-processes":"auto","gpu-header-icon":true,"processor-menu-graph-breakdown":true,"storage-ignored":"\\"[]\\"","sensors-header-icon-custom":"","sensors-header-sensor2":"\\"\\"","network-header-icon-alert-color":"rgba(235, 64, 52, 1)","memory-header-tooltip-free":false,"storage-header-io-figures":2,"network-menu-arrow-color2":"rgba(214,29,29,1.0)","sensors-header-tooltip-sensor3-name":"","network-source-public-ipv6":"https://api6.ipify.org","monitors-order":"\\"\\"","network-header-graph":true,"network-indicators-order":"\\"\\"","memory-header-percentage":false,"gpu-data":"\\"\\"","storage-header-bars":true,"processor-header-tooltip":true,"memory-menu-swap-color":"rgba(29,172,214,1.0)","storage-io-unit":"kB/s","memory-header-graph-width":30,"processor-header-graph-color1":"rgba(29,172,214,1.0)","sensors-header-tooltip-sensor5-digits":-1,"gpu-header-icon-custom":"","gpu-header-icon-size":18,"panel-margin-right":0,"processor-header-frequency":false,"processor-header-graph-breakdown":true,"sensors-header-tooltip-sensor3-digits":-1,"processor-source-cpu-usage":"auto","memory-header-value-figures":3,"compact-mode":false,"processor-header-frequency-mode":"average","panel-box-order":0,"compact-mode-compact-icon-custom":"","network-header-graph-width":30,"gpu-header-tooltip":true,"sensors-header-icon":true,"gpu-header-activity-percentage-icon-alert-threshold":0,"sensors-header-sensor2-digits":-1,"processor-header-graph-color2":"rgba(214,29,29,1.0)","sensors-header-icon-alert-color":"rgba(235, 64, 52, 1)","sensors-update":3,"gpu-header-tooltip-memory-value":true,"processor-header-bars":false,"gpu-header-tooltip-memory-percentage":true,"gpu-header-memory-bar-color1":"rgba(29,172,214,1.0)","sensors-header-tooltip-sensor1":"\\"\\"","sensors-header-tooltip-sensor1-digits":-1,"storage-header-free-figures":3,"processor-header-percentage-core":false,"sensors-header-tooltip-sensor2-name":"","network-source-network-io":"auto","memory-header-bars":true,"processor-header-percentage":false,"processor-header-frequency-figures":3,"storage-header-io-threshold":0,"memory-header-graph-color1":"rgba(29,172,214,1.0)","compact-mode-activation":"both","storage-header-icon-size":18,"sensors-header-tooltip-sensor1-name":"","sensors-header-icon-size":18,"sensors-header-icon-color":"","explicit-zero":false,"sensors-source":"auto","storage-header-io-graph-color1":"rgba(29,172,214,1.0)","storage-header-percentage-icon-alert-threshold":0,"sensors-header-tooltip-sensor2":"\\"\\"","compact-mode-expanded-icon-custom":"","memory-header-graph-color2":"rgba(29,172,214,0.3)","processor-header-icon-alert-color":"rgba(235, 64, 52, 1)","processor-header-tooltip-percentage":true,"gpu-header-show":false,"network-update":1.5,"sensors-header-tooltip-sensor3":"\\"\\"","sensors-ignored-attribute-regex":"","memory-header-icon-custom":"","storage-header-tooltip-io":true,"sensors-header-tooltip-sensor4":"\\"\\"","storage-header-percentage":false,"sensors-temperature-unit":"celsius","storage-header-icon-alert-color":"rgba(235, 64, 52, 1)","storage-header-free-icon-alert-threshold":0,"memory-source-top-processes":"auto","storage-header-value-figures":3,"storage-header-io-bars-color1":"rgba(29,172,214,1.0)","storage-menu-arrow-color1":"rgba(29,172,214,1.0)","gpu-header-tooltip-activity-percentage":true,"network-header-icon-custom":"","processor-header-graph-width":30,"network-header-icon":true,"storage-menu-arrow-color2":"rgba(214,29,29,1.0)","sensors-header-sensor2-layout":"vertical","sensors-header-tooltip-sensor5":"\\"\\"","memory-header-bars-breakdown":true,"sensors-header-show":false,"sensors-header-tooltip":false,"storage-header-tooltip":true,"processor-header-bars-core":false,"storage-indicators-order":"\\"\\"","processor-menu-bars-breakdown":true,"storage-header-io-bars-color2":"rgba(214,29,29,1.0)","network-io-unit":"kB/s","storage-header-icon":true,"gpu-header-activity-graph-color1":"rgba(29,172,214,1.0)","memory-unit":"kB-KB","processor-menu-core-bars-breakdown":true,"sensors-header-sensor2-show":false,"network-header-tooltip":true,"storage-header-tooltip-free":true,"storage-header-bars-color1":"rgba(29,172,214,1.0)","theme-style":"dark","storage-source-storage-usage":"auto","network-header-io":false,"storage-header-tooltip-value":false,"storage-main":"[default]","memory-header-tooltip-percentage":true,"memory-indicators-order":"\\"\\"","memory-source-memory-usage":"auto","memory-header-graph-breakdown":false,"memory-header-tooltip-value":true,"memory-menu-graph-breakdown":true,"sensors-indicators-order":"\\"\\"","compact-mode-start-expanded":false,"startup-delay":2,"memory-header-percentage-icon-alert-threshold":0,"sensors-header-sensor1-show":false,"network-ignored-regex":"","storage-update":3,"memory-header-value":false,"memory-header-bars-color1":"rgba(29,172,214,1.0)","network-header-io-graph-color1":"rgba(29,172,214,1.0)","gpu-header-memory-bar":true,"memory-used":"total-free-buffers-cached","gpu-header-memory-graph-width":30,"gpu-header-memory-graph":false,"sensors-ignored-category-regex":"","headers-font-family":"","memory-header-icon":true,"memory-header-bars-color2":"rgba(29,172,214,0.3)","network-header-io-graph-color2":"rgba(214,29,29,1.0)","processor-gpu":true,"network-header-icon-color":"","storage-header-value":false,"gpu-header-icon-alert-color":"rgba(235, 64, 52, 1)","processor-header-icon":true,"headers-font-size":0,"network-header-io-figures":2,"network-header-show":true,"sensors-ignored-regex":"","network-header-io-bars-color1":"rgba(29,172,214,1.0)","processor-update":1.5,"network-source-wireless":"auto","processor-indicators-order":"\\"\\"","storage-header-icon-custom":"","gpu-header-activity-bar":true,"gpu-header-activity-bar-color1":"rgba(29,172,214,1.0)","shell-bar-position":"top","network-ignored":"\\"[]\\"","network-header-io-bars-color2":"rgba(214,29,29,1.0)","memory-header-icon-color":"","sensors-header-sensor1-digits":-1,"storage-header-io-layout":"vertical","memory-header-icon-size":18,"network-header-io-threshold":0,"storage-header-show":true,"sensors-header-tooltip-sensor4-digits":-1,"processor-header-percentage-icon-alert-threshold":0,"memory-header-tooltip":true,"headers-height-override":0,"memory-header-graph":false,"network-header-icon-size":18,"gpu-header-icon-color":"","memory-header-free-figures":3,"processor-header-bars-breakdown":true,"gpu-header-activity-graph":false,"storage-header-io-bars":false,"memory-header-icon-alert-color":"rgba(235, 64, 52, 1)","storage-header-free":false,"processor-header-icon-custom":"","gpu-header-memory-percentage":false,"processor-header-tooltip-percentage-core":false,"processor-source-cpu-cores-usage":"auto","processor-source-top-processes":"auto","processor-header-icon-color":"","sensors-header-tooltip-sensor5-name":"","gpu-header-activity-graph-width":30,"gpu-header-activity-percentage":false,"gpu-indicators-order":"\\"\\"","network-header-io-layout":"vertical","gpu-update":2,"gpu-header-memory-percentage-icon-alert-threshold":0,"processor-header-bars-color1":"rgba(29,172,214,1.0)","processor-header-show":true,"storage-header-graph":false,"memory-header-free-icon-alert-threshold":0,"storage-ignored-regex":"","storage-menu-device-color":"rgba(29,172,214,1.0)","storage-header-tooltip-percentage":true,"memory-header-free":false,"storage-source-top-processes":"auto"}}'
+sensors-indicators-order='["icon","value"]'
+shell-bar-position='top'
+storage-indicators-order='["icon","bar","percentage","value","free","IO bar","IO graph","IO speed"]'
+storage-main='eui.002538b611b16eef-part5'
+
+[auto-move-windows]
+application-list=@as []
+
+[aztaskbar]
+dance-urgent=true
+desaturation-factor=1.3877787807814457e-17
+favorites=false
+hide-dash=false
+icon-padding-horizontal=9
+icon-size=15
+icon-style='REGULAR'
+indicator-color-running='rgb(204,204,204)'
+indicator-location='TOP'
+main-panel-height=(true, 40)
+multi-window-indicator-style='MULTI_DASH'
+position-in-panel='LEFT'
+position-offset=1
+prefs-visible-page=''
+show-apps-button=(false, 0)
+show-running-apps=true
+update-notifier-project-version=30
+
+[blur-my-shell]
+pipelines={'pipeline_default': {'name': <'default'>, 'effects': <[<{'type': <'native_static_gaussian_blur'>, 'id': <'effect_000000000000'>, 'params': <{'radius': <30>, 'brightness': <0.59999999999999998>}>}>]>}, 'pipeline_default_rounded': {'name': <'Default rounded'>, 'effects': <[<{'type': <'native_static_gaussian_blur'>, 'id': <'effect_000000000001'>, 'params': <{'radius': <30>, 'brightness': <0.59999999999999998>}>}>, <{'type': <'corner'>, 'id': <'effect_000000000002'>, 'params': <{'radius': <24>}>}>]>}}
+settings-version=2
+
+[blur-my-shell/appfolder]
+brightness=0.59999999999999998
+sigma=30
+
+[blur-my-shell/coverflow-alt-tab]
+pipeline='pipeline_default'
+
+[blur-my-shell/dash-to-dock]
+blur=true
+brightness=0.59999999999999998
+pipeline='pipeline_default_rounded'
+sigma=30
+static-blur=true
+style-dash-to-dock=0
+
+[blur-my-shell/lockscreen]
+pipeline='pipeline_default'
+
+[blur-my-shell/overview]
+pipeline='pipeline_default'
+
+[blur-my-shell/panel]
+brightness=0.59999999999999998
+pipeline='pipeline_default'
+sigma=30
+
+[blur-my-shell/screenshot]
+pipeline='pipeline_default'
+
+[blur-my-shell/window-list]
+brightness=0.59999999999999998
+sigma=30
+
+[burn-my-windows]
+active-profile='/home/rahinur/.config/burn-my-windows/profiles/1749818685602443.conf'
+last-extension-version=46
+last-prefs-version=46
+prefs-open-count=20
+
+[caffeine]
+countdown-timer=900
+indicator-position-max=2
+user-enabled=false
+
+[clipboard-history]
+private-mode=false
+
+[compact-top-bar]
+fade-text-on-fullscreen=true
+
+[custom-hot-corners-extended/misc]
+show-osd-monitor-indexes=false
+supported-active-extensions=@as []
+
+[custom-hot-corners-extended/monitor-0-top-left-6]
+ctrl=true
+
+[dash-to-dock]
+apply-custom-theme=false
+background-opacity=0.80000000000000004
+custom-background-color=false
+custom-theme-shrink=false
+dash-max-icon-size=48
+disable-overview-on-startup=true
+dock-fixed=false
+dock-position='BOTTOM'
+extend-height=false
+height-fraction=0.75
+hot-keys=false
+hotkeys-show-dock=false
+icon-size-fixed=false
+intellihide-mode='MAXIMIZED_WINDOWS'
+preferred-monitor=-2
+preferred-monitor-by-connector='eDP-1'
+shortcut=@as []
+shortcut-text=''
+
+[dash-to-panel]
+extension-version=68
+panel-anchors='{}'
+panel-element-positions='{}'
+panel-lengths='{}'
+panel-positions='{}'
+panel-sizes='{}'
+prefs-opened=false
+primary-monitor='SDC-0x00000000'
+
+[ding]
+check-x11wayland=true
+
+[extension-list]
+button-icon=uint32 1
+enable-filter=true
+extension-appid='org.gnome.Extensions.desktop'
+ignore-menu=false
+
+[forge]
+css-last-update=uint32 37
+css-updated='1752421601243'
+tiling-mode-enabled=false
+
+[forge/keybindings]
+con-split-horizontal=['<Super>z']
+con-split-layout-toggle=['<Super>g']
+con-split-vertical=['<Super>v']
+con-stacked-layout-toggle=['<Shift><Super>s']
+con-tabbed-layout-toggle=['<Shift><Super>t']
+con-tabbed-showtab-decoration-toggle=['<Control><Alt>y']
+focus-border-toggle=['<Super>x']
+mod-mask-mouse-tile='Super'
+prefs-tiling-toggle=['<Super>w']
+window-focus-down=['<Super>j']
+window-focus-left=['<Super>h']
+window-focus-right=['<Super>l']
+window-focus-up=['<Super>k']
+window-gap-size-decrease=['<Control><Super>minus']
+window-gap-size-increase=['<Control><Super>plus']
+window-move-down=['<Shift><Super>j']
+window-move-left=['<Shift><Super>h']
+window-move-right=['<Shift><Super>l']
+window-move-up=['<Shift><Super>k']
+window-resize-bottom-decrease=['<Shift><Control><Super>i']
+window-resize-bottom-increase=['<Control><Super>u']
+window-resize-left-decrease=['<Shift><Control><Super>o']
+window-resize-left-increase=['<Control><Super>y']
+window-resize-right-decrease=['<Shift><Control><Super>y']
+window-resize-right-increase=['<Control><Super>o']
+window-resize-top-decrease=['<Shift><Control><Super>u']
+window-resize-top-increase=['<Control><Super>i']
+window-snap-center=['<Control><Alt>c']
+window-snap-one-third-left=['<Control><Alt>d']
+window-snap-one-third-right=['<Control><Alt>g']
+window-snap-two-third-left=['<Control><Alt>e']
+window-snap-two-third-right=['<Control><Alt>t']
+window-swap-down=['<Control><Super>j']
+window-swap-last-active=['<Super>Return']
+window-swap-left=['<Control><Super>h']
+window-swap-right=['<Control><Super>l']
+window-swap-up=['<Control><Super>k']
+window-toggle-always-float=['<Shift><Super>c']
+window-toggle-float=['<Super>c']
+workspace-active-tile-toggle=['<Shift><Super>w']
+
+[hidetopbar]
+enable-active-window=false
+enable-intellihide=true
+hot-corner=true
+keep-round-corners=false
+mouse-sensitive=false
+mouse-sensitive-fullscreen-window=false
+mouse-triggers-overview=false
+
+[just-perfection]
+accessibility-menu=true
+activities-button=true
+calendar=true
+clock-menu=true
+panel=true
+quick-settings-dark-mode=true
+support-notifier-showed-version=34
+world-clock=true
+
+[mediacontrols]
+extension-position='Center'
+
+[moveclock]
+clock-before-statusmenu=false
+
+[openbar]
+bg-change=true
+bguri='file:///usr/share/backgrounds/gnome/blobs-d.svg'
+count1=294832
+count10=0
+count11=0
+count12=0
+count2=241987
+count3=212468
+count4=111812
+count5=66696
+count6=27919
+count7=27811
+count8=16416
+count9=59
+dark-bguri='file:///usr/share/backgrounds/gnome/blobs-d.svg'
+dark-palette1=['36', '28', '52']
+dark-palette10=['160', '35', '64']
+dark-palette11=['76', '72', '68']
+dark-palette12=['68', '28', '68']
+dark-palette2=['63', '36', '66']
+dark-palette3=['189', '53', '34']
+dark-palette4=['117', '36', '75']
+dark-palette5=['97', '36', '76']
+dark-palette6=['147', '28', '75']
+dark-palette7=['224', '94', '4']
+dark-palette8=['41', '36', '52']
+dark-palette9=['44', '36', '60']
+default-font='Sans 12'
+import-export=false
+light-bguri='file:///usr/share/backgrounds/gnome/blobs-l.svg'
+light-palette1=['44', '37', '60']
+light-palette10=['44', '40', '64']
+light-palette11=['44', '40', '64']
+light-palette12=['44', '40', '64']
+light-palette2=['71', '43', '80']
+light-palette3=['187', '48', '73']
+light-palette4=['144', '44', '97']
+light-palette5=['100', '52', '97']
+light-palette6=['212', '75', '36']
+light-palette7=['226', '104', '4']
+light-palette8=['211', '83', '4']
+light-palette9=['52', '41', '60']
+monitor-height=1800
+monitor-width=2880
+palette1=['36', '28', '52']
+palette10=['160', '35', '64']
+palette11=['76', '72', '68']
+palette12=['68', '28', '68']
+palette2=['63', '36', '66']
+palette3=['189', '53', '34']
+palette4=['117', '36', '75']
+palette5=['97', '36', '76']
+palette6=['147', '28', '75']
+palette7=['224', '94', '4']
+palette8=['41', '36', '52']
+palette9=['44', '36', '60']
+pause-reload=false
+reloadstyle=true
+
+[space-bar/appearance]
+application-styles='.space-bar {\n  -natural-hpadding: 12px;\n}\n\n.space-bar-workspace-label.active {\n  margin: 0 4px;\n  background-color: rgba(255,255,255,0.3);\n  color: rgba(255,255,255,1);\n  border-color: rgba(0,0,0,0);\n  font-weight: 700;\n  border-radius: 4px;\n  border-width: 0px;\n  padding: 3px 8px;\n}\n\n.space-bar-workspace-label.inactive {\n  margin: 0 4px;\n  background-color: rgba(0,0,0,0);\n  color: rgba(255,255,255,1);\n  border-color: rgba(0,0,0,0);\n  font-weight: 700;\n  border-radius: 4px;\n  border-width: 0px;\n  padding: 3px 8px;\n}\n\n.space-bar-workspace-label.inactive.empty {\n  margin: 0 4px;\n  background-color: rgba(0,0,0,0);\n  color: rgba(255,255,255,0.5);\n  border-color: rgba(0,0,0,0);\n  font-weight: 700;\n  border-radius: 4px;\n  border-width: 0px;\n  padding: 3px 8px;\n}'
+
+[space-bar/behavior]
+always-show-numbers=false
+indicator-style='current-workspace'
+smart-workspace-names=false
+
+[space-bar/shortcuts]
+enable-move-to-workspace-shortcuts=true
+
+[space-bar/state]
+version=33
+
+[status-area-horizontal-spacing]
+hpadding=6
+
+[system-monitor]
+show-swap=false
+show-upload=false
+
+[user-theme]
+name=''
+
+[vitals]
+hot-sensors=['_memory_usage_', '_battery_time_left_', '__network-rx_max__']
+show-battery=true
+use-higher-precision=false
+
+[weather-oclock]
+weather-after-clock=false
+
+[weatherornot]
+position='right'
